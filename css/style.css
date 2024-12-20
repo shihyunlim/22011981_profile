@@ -1,0 +1,53 @@
+body {
+    width: 80%;
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 0px;
+    background-color: antiquewhite;
+}
+
+.teacher {
+    width:200px;
+}
+
+.logo {
+    width: 200px;
+    height: 200px;
+    padding-left: 150px;
+}
+
+.content h1 {
+    background-color: antiquewhite;
+}
+
+.education {
+    border: 1px dashed orange;
+    margin: 5px;
+    background-color: lightgoldenrodyellow;
+}
+
+.education h2 {
+    background-color: aquamarine;
+    font-style:italic;
+}
+
+.experience {
+    border: 1px dashed orange;
+    margin: 5px;
+    background-color: lightblue;
+}
+
+.skills {
+    border: 1px dashed orange;
+    margin: 5px;
+    background-color: lightgrey;
+}
+
